@@ -48,11 +48,35 @@
 - [SendGrid](https://sendgrid.com/) `E-Mail`
 - [FlightAware](https://zh-tw.flightaware.com/commercial/flightxml/) `Flight`
 - [GoogleMap](https://developers.google.com/maps/?hl=zh-tw) `Map`
+- [Camfind](http://cloudsightapi.com/api) `ImageRecognition`
+- [Vufind Recognize](http://www.vufind.com/api-docs-recognize.html) `ImageRecognition`
+- [Catchoom](http://catchoom.com/product/craftar/augmented-reality-and-image-recognition/) `ImageRecognition`
 
 ### 套件管理 ( Package Manager )
 - [conda](https://github.com/conda/conda)
 - [npm](https://github.com/npm/npm) `JS`
 - [pip](https://github.com/pypa/pip) `Python`
+
+### 電腦視覺 ( Computer Vision )
+- [CVonline: Image Databases](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm) `Database`
+- [Face Detection Homepage](https://facedetection.com/)
+- [Face Recognition Homepage](http://www.face-rec.org/)
+- [Constrained Local Model (CLM)](https://sites.google.com/site/xgyanhome/home/projects/clm-implementation) `OpenCV` `C++` `SDK`
+- [Active Shape Models](http://www.milbo.users.sonic.net/stasm/) `OpenCV` `C++` `SDK`
+- [Dlib](http://blog.dlib.net/) `C++` `Algorithm` `ImageProcessing` `SDK`
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) `C++`
+- [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) `DeepLearning` `C++`
+- [Theano](https://github.com/Theano/Theano) `DeepLearning` `Python`
+- [mxnet](https://github.com/dmlc/mxnet) `DeepLearning`
+- [caffe](https://github.com/BVLC/caffe) `DeepLearning`
+- [tensorflow](https://github.com/tensorflow/tensorflow) `DeepLearning`
+- [tesseract](https://github.com/tesseract-ocr/tesseract) `OCR`
+- [VLFeat](http://www.vlfeat.org/) `C` `Algorithm` `ImageProcessing` `SDK`
+- [AForge.NET](http://www.aforgenet.com/) `C#` `Algorithm` `ImageProcessing` `SDK`
+- [Accord.NET](http://accord-framework.net/) `C#` `Algorithm` `MachineLearning` `SDK`
+- [FastCV](https://developer.qualcomm.com/software/fastcv-sdk) `Algorithm` `SDK`
+- [OpenCV](http://opencv.org/) `Algorithm` `SDK`
+- [LibSVM](https://github.com/cjlin1/libsvm) `SVM`
 
 ### 程式語言
 
@@ -61,6 +85,7 @@
 ##### C#
 
 ##### Python
+- [Anaconda](https://www.continuum.io/)
 
 ##### CSS
 - [StartBootstrap](https://startbootstrap.com/) `Bootstrap` `Template`
@@ -189,11 +214,31 @@
 - [How to Install MongoDB on Ubuntu 14.04 LTS](http://www.liquidweb.com/kb/how-to-install-mongodb-on-ubuntu-14-04/) `MongoDB`
 - [Install MongoDB Community Edition on Linux](https://docs.mongodb.com/manual/administration/install-on-linux/) `MongoDB`
 
+### 電腦視覺 ( Computer Vision )
+- [Real-Time Video Processing Algorithm for Instant License Plate Recognition in iOS Apps (using OpenCV & GPGPU)](http://rnd.azoft.com/instant-license-plate-recognition-in-ios-apps/)
+- [EmguCV with C# - Tutorial List](http://fewtutorials.bravesites.com/tutorials) `C#` `EmguCV` `Document`
+- [Color Detection](http://developers.lyst.com/2014/02/22/color-detection/) `ColorDetection`
+- [Nudity detection with JavaScript and HTMLCanvas](https://www.patrick-wied.at/static/nudejs/) `ColorDetection`
+- [Deep Learning 學習](http://blog.csdn.net/zouxy09/article/details/11910527) `Document` `DeepLearning`
+- [漫谈 Clustering (1): k-means](http://blog.pluskid.org/?p=17) `DeepLearning`
+- [Deep Learning Open Class Room](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning) `DeepLearning`
+- [人頭偵測 SVM+HOG](http://blog.csdn.net/holybin/article/details/17284317) `PeopleCounting`
+- [Read characters on labels using openCV and Tesseract](https://github.com/chd0043/openCV_Tesseract_test) `OCR`
+- [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) `DeepLearning`
+- [COCO](http://mscoco.org/home/) `DeepLearning`
+- [heads-hands-and-faces-tracking](https://github.com/thomas-abassi/heads-hands-and-faces-tracking) `OpenCV` `Dlib`
+- [QR CODE DETECTION AND EXTRACTION](http://dsynflo.blogspot.tw/2014/10/opencv-qr-code-detection-and-extraction.html)
+- [Comparing machine learning classifiers based on their hyperplanes or decision boundaries](http://tjo-en.hatenablog.com/entry/2014/01/06/234155)
+- [Machine Learning with OpenCV](http://bytefish.de/blog/machine_learning_opencv/)
+- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) `DeepLearning` `Document`
+
 
 # 社群
 ***
 ### 研討會
 - [COSCUP](http://coscup.org/)
+- [Computer Vision Resource](http://www.cvpapers.com/index.html)
+- [Computer Vision Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
 
 ### 學習
 - [極客學院](http://www.jikexueyuan.com/)
