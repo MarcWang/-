@@ -27,6 +27,10 @@
 - [C++ websocket](https://github.com/zaphoyd/websocketpp) `C++` `WebSocket`
 - [VLC-Qt](https://github.com/vlc-qt/vlc-qt) `Qt` `VLC`
 
+### 資料庫 ( Database )
+- [SQLite Browser](http://sqlitebrowser.org/)
+- [RoboMongo](https://robomongo.org/)
+
 ### 版本控制 ( Version Control )
 - [Git](https://git-scm.com/) `GUI`
 - [gitignore](https://github.com/github/gitignore) `Git`
@@ -116,6 +120,7 @@
 - [mathjs](http://mathjs.org/) `Math`
 - [synaptic](http://caza.la/synaptic/#/) `DeepLearning` `Node`
 - [socket.io](http://socket.io/) `WebSocket` `Node`
+- [pdfkit](https://github.com/devongovett/pdfkit) `PDF` `Node`
 
 ##### NodeJS
 - [sails](https://github.com/balderdashy/sails) `FrameWork`
@@ -143,6 +148,12 @@
 - [gulp](https://github.com/gulpjs/gulp) `Build`
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) `Proxy`
 - [uglify-js](https://github.com/mishoo/UglifyJS2) `Toolkit`
+- [pageres](https://github.com/sindresorhus/pageres) 截取網頁畫面 `ScreenShot`
+- [trash](https://github.com/sindresorhus/trash) 刪除檔案 `Trash` `Delete` `File`
+- [cpy](https://github.com/sindresorhus/cpy) 複製檔案 `Copy` `File`
+- [is-online](https://github.com/sindresorhus/is-online) 檢查對外網路是否正常 `Internet` `Network` `Check`
+- [is-up](https://github.com/sindresorhus/is-up) 檢查網站是否還在線上 `Website` `Check`
+- [public-ip](https://github.com/sindresorhus/public-ip) 取得該電腦的對外Public IP
 
 ##### AngularJS `JS` `Framework`
 - [angular-strap](https://github.com/mgcrea/angular-strap) `Bootstrap`
