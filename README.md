@@ -154,6 +154,8 @@
 - [is-online](https://github.com/sindresorhus/is-online) 檢查對外網路是否正常 `Internet` `Network` `Check`
 - [is-up](https://github.com/sindresorhus/is-up) 檢查網站是否還在線上 `Website` `Check`
 - [public-ip](https://github.com/sindresorhus/public-ip) 取得該電腦的對外Public IP
+- [node-schedule](node-schedule) 定時做某件事情，鬧鐘的概念 `Schedule`
+- [nativefier](https://github.com/jiahaog/nativefier) 產生桌面程式 `Desktop`
 
 ##### AngularJS `JS` `Framework`
 - [angular-strap](https://github.com/mgcrea/angular-strap) `Bootstrap`
