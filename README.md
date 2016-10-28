@@ -29,7 +29,8 @@
 
 ### 資料庫 ( Database )
 - [SQLite Browser](http://sqlitebrowser.org/)
-- [RoboMongo](https://robomongo.org/)
+- [RoboMongo](https://robomongo.org/) `MongoDB`
+- [ReQL](http://utils.codehangar.io/rethink) `RethinkDB`
 
 ### 版本控制 ( Version Control )
 - [Git](https://git-scm.com/) `GUI`
