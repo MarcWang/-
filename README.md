@@ -8,6 +8,11 @@
 - [Karma](https://github.com/karma-runner/karma) `JS`
 - [Mocha](https://github.com/mochajs/mocha) `JS` `Node`
 
+### 持續整合 ( CI )
+- [Travis-Ci](https://travis-ci.org/) `CI`
+- [Circle-Ci](https://circleci.com/) `CI`
+- [Vexor](https://vexor.io/) `CI`
+
 ### Utilies
 - [shields](https://shields.io/) `Badges`
 - [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) `Emoji`
