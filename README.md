@@ -91,6 +91,7 @@
 
 ##### Python
 - [Anaconda](https://www.continuum.io/)
+- [py2exe](http://www.py2exe.org/) `Build Windows EXE`
 
 ##### CSS
 - [StartBootstrap](https://startbootstrap.com/) `Bootstrap` `Template`
