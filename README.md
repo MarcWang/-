@@ -91,7 +91,16 @@
 
 ##### Python
 - [Anaconda](https://www.continuum.io/)
-- [py2exe](http://www.py2exe.org/) `Build Windows EXE`
+- [py2exe](http://www.py2exe.org/) `BuildWindowsEXE`
+- [moment](https://github.com/zachwill/moment) `TimeFormat`
+- [arrow](https://github.com/crsmithdev/arrow) `TimeFormat`
+- [shortuuid](https://github.com/skorokithakis/shortuuid) `UUID`
+- [simplejson](https://github.com/simplejson/simplejson) `JSON`
+- [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) `PhoneNumberParser`
+- [colorama](https://github.com/tartley/colorama) `ColorPrint`
+- [mongoengine](https://github.com/MongoEngine/mongoengine) `MongodbORM`
+- [django](https://github.com/django/django) `WebFramework` :+1:
+- [flask](https://github.com/pallets/flask) `WebFramework` :+1:
 
 ##### CSS
 - [StartBootstrap](https://startbootstrap.com/) `Bootstrap` `Template`
