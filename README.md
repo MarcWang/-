@@ -1,9 +1,15 @@
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/TWMarcWang)[![Blogger](https://img.shields.io/badge/blogger-marctalk-orange.svg)](www.marcwang.taipei)
+
 # 工具
 ***
 ### 測試 ( Test )
 - [JMeter](http://jmeter.apache.org/) `GUI`
 - [Karma](https://github.com/karma-runner/karma) `JS`
 - [Mocha](https://github.com/mochajs/mocha) `JS` `Node`
+
+### Utilies
+- [shields](https://shields.io/) `Badges`
+- [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) `Emoji`
 
 ### 安全
 - [XML Security](http://santuario.apache.org/download.html) `Code`
@@ -99,7 +105,7 @@
 - [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) `PhoneNumberParser`
 - [colorama](https://github.com/tartley/colorama) `ColorPrint`
 - [mongoengine](https://github.com/MongoEngine/mongoengine) `MongodbORM`
-- [django](https://github.com/django/django) `WebFramework` :+1:
+- [django](https://github.com/django/django) `WebFramework` [![GitHub stars](https://img.shields.io/github/stars/django/django.svg?style=social&label=Star)](https://github.com/django/django) :+1:
 - [flask](https://github.com/pallets/flask) `WebFramework` :+1:
 
 ##### CSS
