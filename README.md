@@ -11,6 +11,7 @@
 ### Utilies
 - [shields](https://shields.io/) `Badges`
 - [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) `Emoji`
+- [wireshark](https://www.wireshark.org/#) `PacketAnalyzer`
 
 ### 安全
 - [XML Security](http://santuario.apache.org/download.html) `Code`
@@ -231,6 +232,9 @@
 ### Raspberry
 - [Install OpenCV and Python on your Raspberry Pi 2 and B+](http://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/) `OpenCV` `Python`
 - [Raspberry Pi Camera Module 的串流視訊建立](http://ruten-proteus.blogspot.tw/2014/02/RasPi-Camera-Guide.html)
+
+### Python
+- [Python Design Pattern](https://github.com/faif/python-patterns) `Document`
 
 ### JavaScript
 - [Exploring ES6](http://exploringjs.com/es6/index.html#toc_ch_arrow-functions) `Document`
