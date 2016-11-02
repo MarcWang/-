@@ -106,8 +106,11 @@
 - [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) `PhoneNumberParser`
 - [colorama](https://github.com/tartley/colorama) `ColorPrint`
 - [mongoengine](https://github.com/MongoEngine/mongoengine) `MongodbORM`
-- [django](https://github.com/django/django) `WebFramework` [![GitHub stars](https://img.shields.io/github/stars/django/django.svg?style=social&label=Star)](https://github.com/django/django) :+1:
-- [flask](https://github.com/pallets/flask) `WebFramework` :+1:
+- [django](https://github.com/django/django) `WebFramework` 
+> [![GitHub stars](https://img.shields.io/github/stars/django/django.svg?style=social&label=Star)](https://github.com/django/django)
+
+- [flask](https://github.com/pallets/flask) `WebFramework`
+> [![GitHub stars](https://img.shields.io/github/stars/pallets/flask.svg?style=social&label=Star)](https://github.com/pallets/flask)
 
 ##### CSS
 - [StartBootstrap](https://startbootstrap.com/) `Bootstrap` `Template`
