@@ -210,6 +210,8 @@
  * [(VITO の 學習筆記) Google OAuth 2.0](http://vito-note.blogspot.tw/2015/04/google-oauth-20.html?m=1)
  * (Daniel Gynn)Authenticating Users in a Node App using Express & Passport ( [Part1](https://www.danielgynn.com/build-an-authentication-app-using-express-node-passport/)、[Part2](https://www.danielgynn.com/node-auth-part2/) )
 
+### 演算法
+- [ yehyeh 排序演算法](http://notepad.yehyeh.net/Content/Algorithm/Sort/Sort.php) `Sort`
 ### 通訊 ( Communication )
 - [Capturing Audio & Video in HTML5](https://www.html5rocks.com/zh/tutorials/getusermedia/intro/) `JS` `WebRTC`
 - [Getting Started with WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics/) `JS` `WebRTC`
