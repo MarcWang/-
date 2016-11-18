@@ -1,5 +1,5 @@
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/TWMarcWang)
-[![Blogger](https://img.shields.io/badge/Blogger-MarcTalk-orange.svg)](http://www.marcwang.taipei)
+[![Blogger](https://img.shields.io/badge/Blogger-MarcTalk-orange.svg)](https://ccw1986.blogspot.tw/)
 
 # 工具
 ***
@@ -185,6 +185,7 @@
 - [nativefier](https://github.com/jiahaog/nativefier) 產生桌面程式 `Desktop`
 - [Simple OAuth2](https://github.com/lelylan/simple-oauth2) OAuth2.0 Client 端的函式庫 `OAuth`
 - [OAuth2 Server/Provider](https://github.com/oauthjs/node-oauth2-server) OAuth2.0 Server `OAuth`
+- [socketio-jwt](https://github.com/auth0/socketio-jwt) jwt驗證Socket.io`Socketio` `JWT`
 
 ##### AngularJS `JS` `Framework`
 - [angular-strap](https://github.com/mgcrea/angular-strap) `Bootstrap`
