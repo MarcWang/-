@@ -2,6 +2,7 @@
 - [XML Security]()
 - [OpenSSL HMAC Hasing Example in C++](http://www.askyb.com/cpp/openssl-hmac-hasing-example-in-cpp/)
 - [HTTP Session 攻擊與防護](http://devco.re/blog/2014/06/03/http-session-protection/)
+- [JWT](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
 - **OAuth**
  * [(Yu-Cheng Chuang) 簡單易懂的 OAuth 2.0](https://speakerdeck.com/chitsaou/jian-dan-yi-dong-de-oauth-2-dot-0)
  * [(阮一峰) 理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
