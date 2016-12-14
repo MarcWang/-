@@ -3,17 +3,11 @@
 
 ### [ 電腦視覺 (Computer-Vision)](https://github.com/MarcWang/awesome-tools/tree/master/computer-vision)
 ### [ 資料庫 (Database)](https://github.com/MarcWang/awesome-tools/tree/master/database)
+### [ DevOps ](https://github.com/MarcWang/awesome-tools/tree/master/devops)
+### [ 程式語言 (Programming-Language) ](https://github.com/MarcWang/awesome-tools/tree/master/programming-language)
+### [ 安全 (Security) ](https://github.com/MarcWang/awesome-tools/tree/master/security)
+### [ 實用 (Utilities) ](https://github.com/MarcWang/awesome-tools/tree/master/utilities)
+### [ 版本控制 (Version-Control) ](https://github.com/MarcWang/awesome-tools/tree/master/version-control)
+### [ 網路服務 (Web-Service) ](https://github.com/MarcWang/awesome-tools/tree/master/web-service)
+### [ 社群 (Social-Network)](https://github.com/MarcWang/awesome-tools/tree/master/social-network)
 
-# 社群
-***
-### 研討會
-- [COSCUP](http://coscup.org/)
-- [Computer Vision Resource](http://www.cvpapers.com/index.html)
-- [Computer Vision Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
-
-### 學習
-- [極客學院](http://www.jikexueyuan.com/)
-- [codecademy](https://www.codecademy.com/)
-- [计蒜客](https://www.jisuanke.com/)
-- [萌码](http://www.mengma.com/)
-- [Mokoversity](https://www.mokoversity.com/)
