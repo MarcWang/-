@@ -1,0 +1,3 @@
+- [AliNode](http://alinode.aliyun.com/blog) `blog`
+- [解读Nodejs多核处理模块cluster](http://blog.fens.me/nodejs-core-cluster/)
+- [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)

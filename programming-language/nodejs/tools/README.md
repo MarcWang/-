@@ -1,0 +1,47 @@
+
+# Tools
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) `NVM`
+- [node-gyp](https://github.com/nodejs/node-gyp) `Addon`
+- [forever](https://github.com/foreverjs/forever) `Monitor`
+- [nodemon](https://github.com/remy/nodemon) `Monitor`
+- [pm2](https://github.com/Unitech/pm2) `Monitor`
+- [gulp](https://github.com/gulpjs/gulp) `Build`
+- [npm](https://github.com/npm/npm) `PackageManager`
+
+# Libraries
+- [sails](https://github.com/balderdashy/sails) `FrameWork`
+- [redis](https://github.com/NodeRedis/node_redis) `Redis`
+- [i18n-2](https://github.com/jeresig/i18n-node-2) `Express` `i18n`
+- [sharp](https://github.com/lovell/sharp) `ImageProcessing`
+- [gm](http://aheckmann.github.io/gm/) `ImageProcessing`
+- [lwip](https://github.com/EyalAr/lwip) `ImageProcessing`
+- [natural](https://github.com/NaturalNode/natural) `DeepLearning`
+- [nodemailer](https://github.com/nodemailer/nodemailer) `E-Mail`
+- [bunyan](https://github.com/trentm/node-bunyan) `Log`
+- [winston](https://github.com/winstonjs/winston) `Log`
+- [colors](https://github.com/marak/colors.js/) `Log`
+- [amqp](https://github.com/postwait/node-amqp) `RabbitMQ`
+- [zmq](https://github.com/JustinTulloss/zeromq.node) `ZeroMQ`
+- [joi](https://github.com/hapijs/joi) `Validate`
+- [bluebird](https://github.com/petkaantonov/bluebird) `Promise`
+- [async](https://github.com/caolan/async) `Async`
+- [co](https://github.com/tj/co) `Generator`
+- [http-proxy](https://github.com/nodejitsu/node-http-proxy) `Proxy`
+- [uglify-js](https://github.com/mishoo/UglifyJS2) `Toolkit`
+- [pageres](https://github.com/sindresorhus/pageres) 截取網頁畫面 `ScreenShot`
+- [trash](https://github.com/sindresorhus/trash) 刪除檔案 `Trash` `Delete` `File`
+- [cpy](https://github.com/sindresorhus/cpy) 複製檔案 `Copy` `File`
+- [is-online](https://github.com/sindresorhus/is-online) 檢查對外網路是否正常 `Internet` `Network` `Check`
+- [is-up](https://github.com/sindresorhus/is-up) 檢查網站是否還在線上 `Website` `Check`
+- [public-ip](https://github.com/sindresorhus/public-ip) 取得該電腦的對外Public IP
+- [node-schedule](node-schedule) 定時做某件事情，鬧鐘的概念 `Schedule`
+- [nativefier](https://github.com/jiahaog/nativefier) 產生桌面程式 `Desktop`
+- [Simple OAuth2](https://github.com/lelylan/simple-oauth2) OAuth2.0 Client 端的函式庫 `OAuth`
+- [OAuth2 Server/Provider](https://github.com/oauthjs/node-oauth2-server) OAuth2.0 Server `OAuth`
+- [socketio-jwt](https://github.com/auth0/socketio-jwt) jwt驗證Socket.io`Socketio` `JWT`
+- [momentjs](http://momentjs.com/) `Time` 
+- [lodash](https://lodash.com/) `Utility` 
+- [videojs](http://videojs.com/) `Stream` 
+- [synaptic](http://caza.la/synaptic/#/) `DeepLearning` 
+- [socket.io](http://socket.io/) `WebSocket`
+- [pdfkit](https://github.com/devongovett/pdfkit) `PDF`
