@@ -45,3 +45,4 @@
 - [synaptic](http://caza.la/synaptic/#/) `DeepLearning` 
 - [socket.io](http://socket.io/) `WebSocket`
 - [pdfkit](https://github.com/devongovett/pdfkit) `PDF`
+- [nodejieba](https://github.com/yanyiwu/nodejieba) `斷詞`
