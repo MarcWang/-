@@ -7,4 +7,6 @@
 - [Vufind Recognize](http://www.vufind.com/api-docs-recognize.html) `ImageRecognition`
 - [Catchoom](http://catchoom.com/product/craftar/augmented-reality-and-image-recognition/) `ImageRecognition`
 - [Microsoft BotBuilder](https://github.com/Microsoft/BotBuilder) `ChatBot`
+- [LUIS](https://www.luis.ai/) `ChatBot`
+- [RecastAI](https://recast.ai/explore) `ChatBot`
 
