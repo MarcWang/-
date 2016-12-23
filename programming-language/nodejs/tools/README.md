@@ -46,3 +46,6 @@
 - [socket.io](http://socket.io/) `WebSocket`
 - [pdfkit](https://github.com/devongovett/pdfkit) `PDF`
 - [nodejieba](https://github.com/yanyiwu/nodejieba) `斷詞`
+- [scrape-it](https://github.com/IonicaBizau/scrape-it) `爬蟲`
+- [x-ray](https://github.com/lapwinglabs/x-ray) `爬蟲`
+- [osmosis](https://github.com/rchipka/node-osmosis) `爬蟲`
