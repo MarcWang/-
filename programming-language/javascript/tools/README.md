@@ -26,3 +26,6 @@
 # AngularJS 
 - [angular-strap](https://github.com/mgcrea/angular-strap) `Bootstrap`
 - [angular-google-maps](https://github.com/angular-ui/angular-google-maps) `Map`
+
+# Ionic
+- [Digital Keyboard](https://github.com/skol-pro/ion-digit-keyboard-v2) `v2`
